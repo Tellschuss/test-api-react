@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  display: grid;
+  column-count: 3;
 }
 
 .App-logo {
